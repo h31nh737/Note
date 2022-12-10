@@ -1,6 +1,6 @@
 # [Guide to Bug Bounty Hunting](https://danialzahoor.blogspot.com/2022/12/guide-to-bug-bounty-hunting.html)
 
-1. **Web Application basics.** Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. https://developer.mozilla.org/en-US/docs/Web
+1. **Web Application basics.** Learn how a request works, HTTP headers, JSON requests, how a browser works, how they communicate and send data to the servers, DNS etc. [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
 
 2. **Common scope vulnerabilities.** You will need to know common scope vulnerabilities such as Remote Code Execution (RCE), Cross Site Request Forgery (CSRF), Cross Site Scripting (XSS), Injections (SQL, Command etc.), Clickjacking, Open Redirects, etc.
 
